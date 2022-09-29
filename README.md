@@ -1,7 +1,7 @@
 
 
 # Ignite - Rocketseat
-###Desafio 01 - Database Queries
+### Desafio 01 - Database Queries
 
 #### Sobre o desafio
 
@@ -17,7 +17,7 @@ A aplicação possui dois módulos: `users` e `games`. Um **usuário** pode ter 
 
 
 #### Preparando o ambiente para os testes
- - **Postgres** com o nome **queries_challenge**
+ - Criar Banco de dados **Postgres** com o nome **queries_challenge**
  -  **Docker**	
  	- Create
 ``
